@@ -1,4 +1,4 @@
-# Desafio Back-end Php
+# Desafio Back-end PHP
 
 Primeiramente, obrigado pelo seu interesse se candidatar a nossa vaga de backend.
 Abaixo você encontrará todos as informações necessárias para iniciar o seu teste.
@@ -79,7 +79,6 @@ Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremo
 - https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing
 - https://github.com/exakat/php-static-analysis-tools
 - https://martinfowler.com/articles/microservices.html
-- https://picpay.com/site/sobre-nos
 
 
 ## Para o dia da entrevista técnica
